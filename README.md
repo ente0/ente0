@@ -12,7 +12,7 @@
 
 # 📊 GitHub Stats:
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ente0v1&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ente0v1&theme=dracula)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ente0v1&theme=dracula&langs_count=3&layout=donut)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ente0v1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
