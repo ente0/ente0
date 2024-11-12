@@ -15,7 +15,7 @@
 -
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ente0v1&theme=dracula&langs_count=3&layout=donut)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 -
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ente0v1&repo=hashCrack&theme=dracula)](https://github.com/ente0v1/hashCrack#gh-dark-mode-only)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ente0v1&repo=hashCrack&theme=dracula)](https://github.com/ente0v1/hashCrack)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ente0v1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
