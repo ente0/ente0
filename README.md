@@ -11,12 +11,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ente0v1&theme=dracula&langs_count=2&layout=donut" alt="Top Langs"/>
 </p>
 
+<!--
 ***
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ente0v1&repo=hashCrack&theme=dracula" alt="Readme Card"/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ente0v1&repo=Crack_Master&theme=dracula" alt="Readme Card"/>
 </p>
-
+-->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ente0v1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
