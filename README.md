@@ -9,11 +9,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ente0v1&show_icons=true&theme=dracula&rank_icon=github" alt="Anurag's GitHub stats-Dark"/>
 </p>
--
+---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ente0v1&theme=dracula&langs_count=2&layout=donut" alt="Top Langs"/>
 </p>
--
+---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ente0v1&repo=hashCrack&theme=dracula" alt="Readme Card"/>
 </p>
