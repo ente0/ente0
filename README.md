@@ -10,20 +10,17 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ente0v1&show_icons=true&theme=dracula&rank_icon=github" alt="Anurag's GitHub stats-Dark"/>
 </p>
 
-<hr style="border: 1px solid #DDD; width: 50%;"/>
+<hr style="border: 0; border-top: 1px solid #e0e0e0; width: 50%;"/>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ente0v1&theme=dracula&langs_count=2&layout=donut" alt="Top Langs"/>
 </p>
 
-<hr style="border: 1px solid #DDD; width: 50%;"/>
+<hr style="border: 0; border-top: 1px solid #e0e0e0; width: 50%;"/>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ente0v1&repo=hashCrack&theme=dracula" alt="Readme Card"/>
 </p>
-
-
-
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ente0v1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
