@@ -8,11 +8,11 @@
 # 📊 GitHub Stats:
 ![LANG](https://github-readme-stats.vercel.app/api?username=ente0v1&show_icons=true&theme=dracula&rank_icon=github")]
 -
-![LANG](https://github-readme-stats.vercel.app/api/top-langs/?username=ente0v1&theme=dracula&langs_count=2&layout=donut")]
+![LANG](https://github-readme-stats.vercel.app/api/top-langs/?username=ente0v1&theme=dracula&langs_count=2&layout=donut")
 -
-![CARD](https://github-readme-stats.vercel.app/api/pin/?username=ente0v1&repo=hashCrack&theme=dracula")]
+![CARD](https://github-readme-stats.vercel.app/api/pin/?username=ente0v1&repo=hashCrack&theme=dracula")
 -
-![CARD](https://github-readme-stats.vercel.app/api/pin/?username=ente0v1&repo=Crack_Master&theme=dracula" alt="Readme Card")]
+![CARD](https://github-readme-stats.vercel.app/api/pin/?username=ente0v1&repo=Crack_Master&theme=dracula")
 
 
 
