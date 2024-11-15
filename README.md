@@ -10,7 +10,7 @@
 -
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ente0v1&theme=dracula&langs_count=2&layout=donut)
 -
-![![](https://github-readme-stats.vercel.app/api/pin/?username=ente0v1&repo=hashCrack&theme=dracula)(https://github.com/ente0v1/hashCrack)] ![](https://github-readme-stats.vercel.app/api/pin/?username=ente0v1&repo=Crack_Master&theme=dracula)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=ente0v1&repo=hashCrack&theme=dracula)](https://github.com/ente0v1/hashCrack) [![](https://github-readme-stats.vercel.app/api/pin/?username=ente0v1&repo=Crack_Master&theme=dracula)](https://github.com/ente0v1/hashCrack)
 
 
 
