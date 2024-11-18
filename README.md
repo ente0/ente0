@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Alex<3
+# Hi there 👋 I'm Alex <3
 🧠 I'm currently learning about cybersecurity, aiming to leverage cutting-edge technologies for more robust protection strategies.<br><br>👯‍♀️ I'm looking to collaborate on projects related to ethical hacking, penetration testing, and developing innovative cybersecurity tools.<br><br>🤔 I'm looking for help with staying updated on the latest advancements in cybersecurity and AI, as well as refining my skills in coding and data analysis.<br><br>💬 Ask me about cybersecurity strategies, threat intelligence, risk assessment methodologies, or anything related to cybersecurity.<br><br>📫 How to reach me: Feel free to connect with me via email at [alex.ador2002@gmail.com].<br><br>😄 Pronouns: He/Him<br><br>
 
 
