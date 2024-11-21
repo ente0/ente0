@@ -10,7 +10,7 @@
 -
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ente0v1&theme=dracula&langs_count=2&layout=donut)
 -
-[![](https://github-readme-stats.vercel.app/api/pin/?username=ente0v1&repo=hashCrack&theme=dracula)](https://github.com/ente0v1/hashCrack) [![](https://github-readme-stats.vercel.app/api/pin/?username=ente0v1&repo=Crack_Master&theme=dracula)](https://github.com/ente0v1/Crack_Master)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=ente0v1&repo=hashCrack&theme=dracula)](https://github.com/ente0v1/hashCrack) [![](https://github-readme-stats.vercel.app/api/pin/?username=ente0v1&repo=Crack_Mater&theme=dracula)](https://github.com/ente0v1/Crack_Master)
 
 
 
@@ -19,6 +19,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=ente0v1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+<!--
 [![](https://visitcount.itsvg.in/api?id=ente0&label=Profile%20Views&icon=7&pretty=true)](https://visitcount.itsvg.in)
-
+-->
 
