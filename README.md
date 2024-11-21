@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Alex <3
-I'm looking to collaborate on projects related to ethical hacking, penetration testing, and developing innovative cybersecurity tools.<br><br>I'm looking for help with staying updated on the latest advancements in cybersecurity and AI, as well as refining my skills in coding.<br><br>💬 Ask me about cybersecurity strategies, threat intelligence, risk assessment methodologies, or anything related to cybersecurity.<br><br>📫 How to reach me: Feel free to connect with me via email at [enteo.dev@protonmail.com].
+🧠 I'm looking to collaborate on projects related to ethical hacking, penetration testing, and developing innovative cybersecurity tools.<br><br>😄 I'm looking for help with staying updated on the latest advancements in cybersecurity and AI, as well as refining my skills in coding.<br><br>💬 Ask me about cybersecurity strategies, threat intelligence, risk assessment methodologies, or anything related to cybersecurity.<br><br>📫 How to reach me: Feel free to connect with me via email at [enteo.dev@protonmail.com].
 
 
 # 💻 Tech Stack:
